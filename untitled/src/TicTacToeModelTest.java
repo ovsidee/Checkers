@@ -171,7 +171,7 @@ class TicTacToeModelTest {
         }
     }
 
-    //----------------------------------------------------------------------------------------------other checks
+    //-------------------------------------------------------------------------------------------other checks
     @Test
     public void testBoardInitialization() {
 //         Verify the board is empty and ready for a new game.
