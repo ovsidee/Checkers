@@ -1,0 +1,3 @@
+D:/University 3 semestr/UTP/FirsProject1.0/CPlusPlus/cmake-build-debug/CMakeFiles/CPlusPlus.dir
+D:/University 3 semestr/UTP/FirsProject1.0/CPlusPlus/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/University 3 semestr/UTP/FirsProject1.0/CPlusPlus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
