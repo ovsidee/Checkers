@@ -11,7 +11,7 @@ public class TicTacToeModel extends AbstractTableModel {
     public native char getBoardValue(int row, int col);
 
     public TicTacToeModel() {
-        resetBoard();  // Initialize the board at the start
+        resetBoard();   // Initialize the board at the start
     }
 
     @Override
