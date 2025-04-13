@@ -44,6 +44,7 @@ To run the **Checkers / Tic-Tac-Toe 5x5** game locally:
    ```bash
     mvn clean install
     mvn exec:java
+   ```
 4. Play the game:
   - Launch the game through the GUI, and start playing!
 
