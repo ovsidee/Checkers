@@ -40,7 +40,7 @@ To run the **Checkers / Tic-Tac-Toe 5x5** game locally:
     ```bash
     g++ -shared -o libgameLogic.so game_logic.cpp
 3. Run the Java application:
-   - Build and run the project using Maven:
+- Build and run the project using Maven:
    ```bash
     mvn clean install
     mvn exec:java
