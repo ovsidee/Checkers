@@ -4,12 +4,11 @@ A **Checkers / Tic-Tac-Toe 5x5** game implemented as a **Java Panama Project** w
 
 The game logic is implemented in **C++**, while the graphical interface is built using **Java Swing**. The design follows the **MVC pattern** to separate concerns between the model, view, and controller.
 
-## Tools Used
-
-- **Java Swing** for the graphical user interface (GUI)
-- **C++** handles all game logic, including win conditions, player turns, and game state.
-- **JNI** for communication between Java and C++ components.
-- **JUnit 5** for unit testing the game logic and ensuring a smooth experience.
+## Technologies Used
+- **Java Swing**
+- **C++**
+- **JNI**
+- **JUnit5**
 
 ## Game Flow
 
