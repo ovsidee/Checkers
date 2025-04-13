@@ -35,17 +35,17 @@ To run the **Checkers / Tic-Tac-Toe 5x5** game locally:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/CheckersTicTacToe5x5.git && cd CheckersTicTacToe5x5
-2. Compile the C++ code:
+2. **Compile the C++ code**:
   - Make sure to compile the C++ game logic before running the application. If you are using a typical setup, use the following command:
     ```bash
     g++ -shared -o libgameLogic.so game_logic.cpp
-3. Run the Java application:
+3. **Run the Java application**:
 - Build and run the project using Maven:
    ```bash
     mvn clean install
     mvn exec:java
    ```
-4. Play the game:
+4. **Play the game**:
   - Launch the game through the GUI, and start playing!
 
 ## Access the Game
